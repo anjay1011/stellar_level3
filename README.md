@@ -49,7 +49,7 @@ npm run dev
 [View Live dApp on Vercel](https://stellar-level3-u9w3.vercel.app/)
 
 ## 🎥 Demo Video
-[Link to 1-minute Demo Video](REPLACE_WITH_YOUR_VIDEO_LINK)
+[Watch the 1-minute Demo Video](./videooo.mp4)
 
 ## ✅ Submission Checklist
 - [x] Mini-dApp fully functional
