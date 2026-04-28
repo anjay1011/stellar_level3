@@ -26,6 +26,9 @@ test test::test_all_users ... ok
 test result: ok. 3 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.14s
 ```
 
+### 📸 Test Output Screenshot
+![Passing Tests Screenshot](REPLACE_WITH_IMAGE_PATH)
+
 ## 🛠 Setup & Installation
 
 ### 1. Contract Deployment
@@ -41,6 +44,9 @@ cd frontend
 npm install
 npm run dev
 ```
+
+## 🌐 Live Demo
+[View Live dApp on Vercel](https://stellar-level3-u9w3.vercel.app/)
 
 ## 🎥 Demo Video
 [Link to 1-minute Demo Video](REPLACE_WITH_YOUR_VIDEO_LINK)
