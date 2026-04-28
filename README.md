@@ -27,7 +27,7 @@ test result: ok. 3 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; fini
 ```
 
 ### 📸 Test Output Screenshot
-![Passing Tests Screenshot](REPLACE_WITH_IMAGE_PATH)
+![Passing Tests Screenshot](./tests_passing.png)
 
 ## 🛠 Setup & Installation
 
