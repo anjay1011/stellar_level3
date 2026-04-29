@@ -11,8 +11,12 @@ A complete end-to-end decentralized feedback system built on the Stellar network
 
 ## 📄 Contract Information
 - **Network**: Stellar Testnet
-- **Contract ID**: `CCH6DFCGNAXEB32NZMQRWPB6IPJYQWY6FP6ZEDPEPLOREBJZ2TSR4RXW`
+- **Contract ID**: [`CCH6DFCGNAXEB32NZMQRWPB6IPJYQWY6FP6ZEDPEPLOREBJZ2TSR4RXW`](https://stellar.expert/explorer/testnet/contract/CCH6DFCGNAXEB32NZMQRWPB6IPJYQWY6FP6ZEDPEPLOREBJZ2TSR4RXW)
+- **Explorer Link**: [View on StellarExpert](https://stellar.expert/explorer/testnet/contract/CCH6DFCGNAXEB32NZMQRWPB6IPJYQWY6FP6ZEDPEPLOREBJZ2TSR4RXW)
 - **Functionality**: Uses persistent storage to map addresses to feedback strings and maintains a list of unique contributors.
+
+### 📸 Deployed Contract Verification
+![Contract Deployment Verification](./Screenshot%202026-04-29%20154247.png)
 
 ## 🧪 Testing
 The smart contract has been thoroughly tested with 3 core tests covering all functionality:
